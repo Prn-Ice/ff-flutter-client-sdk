@@ -10,7 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  js: ^0.6.3
   logging: ^1.1.1
   flutter_web_plugins:
     sdk: flutter

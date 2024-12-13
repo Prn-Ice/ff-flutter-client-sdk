@@ -6,7 +6,7 @@ import 'dart:convert';
 import 'dart:js_util';
 import 'package:flutter/services.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
-import 'package:js/js.dart';
+import 'dart:js_interop';
 import 'package:logging/logging.dart';
 import 'web_plugin_internal//FfJavascriptSDKInterop.dart';
 

@@ -1,7 +1,7 @@
 @JS()
 library harness_javascript_sdk.js;
 
-import 'package:js/js.dart';
+import 'dart:js_interop';
 
 // Represents the JavaScript SDK global object set by the iife distribution.
 @JS(JavaScriptSDK.windowReference)
